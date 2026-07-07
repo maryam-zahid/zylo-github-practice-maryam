@@ -17,6 +17,7 @@ I selected the Next.js track because I want to learn how to build modern, fast, 
 - Branch
 - Pull Request
 - Push / Pull
+- Git helps track project history
 
 ## Git Commands Practiced
 
