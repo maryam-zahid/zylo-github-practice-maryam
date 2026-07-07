@@ -10,6 +10,8 @@
 
 I selected the Next.js track because I want to learn how to build modern, fast, and scalable web applications. Since Next.js is built on React, I believe it will help me strengthen my frontend skills while also learning full-stack development features.
 
+I look forward to improving my Git and GitHub skills during this internship.
+
 ## What I learned today
 
 - Repository
