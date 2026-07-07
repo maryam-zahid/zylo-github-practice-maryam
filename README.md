@@ -1,5 +1,9 @@
 # Zylo GitHub Practice
 
+## Goals
+
+- Learn GitHub workflow
+- Collaborate using Pull Requests
 ## About Me
 
 **Name:** Maryam Khawaja
